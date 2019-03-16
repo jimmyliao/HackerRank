@@ -1,4 +1,7 @@
 <p align="center">
+Fork from https://github.com/gabrielgiordan/hackerrank, modified by JimmyLiao
+</p>
+<p align="center">
   <a href="https://www.hackerrank.com/gabrielgiordano">
     <img alt="HackerRank" src="https://raw.githubusercontent.com/gabrielgiordan/HackerRank/master/hacker-rank-logo.png">
   </a>
